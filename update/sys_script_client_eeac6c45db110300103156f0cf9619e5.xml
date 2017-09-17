@@ -12,7 +12,7 @@
         <order/>
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
-   alert("ramil is not here");
+   alert("ramil is not here blah");
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -21,7 +21,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>eeac6c45db110300103156f0cf9619e5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>maybe not</sys_name>
         <sys_overrides/>
         <sys_package display_value="ramil" source="x_137748_ramil">284b2805db110300103156f0cf9619d2</sys_package>
@@ -30,7 +30,7 @@
         <sys_scope display_value="ramil">284b2805db110300103156f0cf9619d2</sys_scope>
         <sys_update_name>sys_script_client_eeac6c45db110300103156f0cf9619e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-17 11:22:09</sys_updated_on>
+        <sys_updated_on>2017-09-17 11:32:54</sys_updated_on>
         <table>incident</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
